@@ -1,8 +1,9 @@
 ### Olá! 👋
 
-- 🔭 Estou Trabalhando em projetos voltados a Front-End
-- 🌱 Estou estudando Javascript e Python
-- 💼 Pretendo entrar na área de desenvolvimento de Realidade Virtual
+- 🔭 Estou Trabalhando em projetos voltados a Front-End.
+- 🌱 Estou estudando Javascript e Python.
+- 💼 Pretendo entrar na área de desenvolvimento de Realidade Virtual.
+- 🎨 Sou editor de Videos e Fotos desde 2018.
 - 📫 Meu Portifolio: https://linkme.bio/romulo_matheuss/
 
 <div align="center">
