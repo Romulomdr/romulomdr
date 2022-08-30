@@ -17,7 +17,7 @@
   <img align="center" alt="Romulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Romulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Romulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Romulo-Java" height="30" width="40" src="<a href="https://www.flaticon.com/br/icones-gratis/java" title="java ícones">Java ícones criados por riajulislam - Flaticon</a>">
+  <img align="center" alt="Romulo-Java" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/java_3291669?term=java&page=1&position=1&page=1&position=1&related_id=3291669&origin=search">
 </div>
 </div>
   
