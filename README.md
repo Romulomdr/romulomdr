@@ -17,6 +17,7 @@
   <img align="center" alt="Romulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Romulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Romulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Romulo-Java" height="30" width="40" src="https://icons8.com.br/icon/GPfHz0SM85FX/logo-java-coffee-cup">
 </div>
 </div>
   
