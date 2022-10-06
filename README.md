@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! 👋👋
 
 - 🔭 Estou Trabalhando em projetos voltados a Front-End.
 - 🌱 Estou estudando Javascript e Python.
