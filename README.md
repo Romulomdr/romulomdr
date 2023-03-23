@@ -15,10 +15,8 @@
 <div>
   <span>ㅤㅤㅤㅤㅤㅤㅤㅤㅤ</span><img width = "54%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romulomdr&theme=vue-dark&hide_border=false">
 </div>
-<div align="right">
- [![](https://visitcount.itsvg.in/api?id=Romulomdr&icon=5&color=0)](https://visitcount.itsvg.in)
-</div>
 
+[![](https://visitcount.itsvg.in/api?id=Romulomdr&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Romulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
