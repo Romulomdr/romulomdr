@@ -6,6 +6,15 @@
 - 🎨 Sou editor de Videos e Fotos desde 2018.
 - 📫 Meu Portifolio: https://linkme.bio/romulo_matheuss/
 
+<div class="flex flex-wrap">
+ <div justify="center"><img float="center" width="40%" float="center" src="https://github-readme-stats.vercel.app/api?username=Romulomdr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false">
+   <img width = "31.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulomdr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+ </div>
+</div> 
+
+<div>
+  <span>ㅤㅤㅤㅤㅤㅤㅤㅤㅤ</span><img width = "49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romulomdr&theme=vue-dark&hide_border=false">
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Romulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Romulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
