@@ -2,7 +2,7 @@
 
 - 🔭 Estou Trabalhando em projetos voltados a Back-end.
 - 🌱 No momento estudo frameworks voltados para desenvolvimento Java(Spring, JPA, hibernate...).
-- 💼 Buscando oportunidades sejam freelancers ou CLT.
+- 💼 Buscando oportunidades sejam freelancers, CLT ou PJ.
 - 🎨 Meu hobbie é editar vídeos e fotos.
 
 <div class="flex flex-wrap">
