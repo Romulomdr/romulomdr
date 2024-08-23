@@ -5,8 +5,9 @@
 - 💼 Looking for opportunities whether freelancers, CLT or PJ.
 - 🎨 My hobby is editing videos and photos.
 
+
 <div class="flex flex-wrap">
-  <span>ㅤㅤㅤㅤㅤㅤㅤㅤㅤ</span><img width = "54%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romulomdr&theme=vue-dark&hide_border=false">
+  <span></span><img width = "54%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romulomdr&theme=vue-dark&hide_border=false">
   <img width = "35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulomdr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div> 
 
