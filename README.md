@@ -1,9 +1,9 @@
-### Olá! 👋👋
+### Hello! 👋👋
 
-- 🔭 Estou Trabalhando em projetos voltados a Back-end.
-- 🌱 No momento estudo frameworks voltados para desenvolvimento Java(Spring, JPA, hibernate...).
-- 💼 Buscando oportunidades sejam freelancers, CLT ou PJ.
-- 🎨 Meu hobbie é editar vídeos e fotos.
+- 🔭 I'm working on back-end projects.
+- 🌱 At the moment I study frameworks focused on Java development (Spring, JPA, hibernate...).
+- 💼 Looking for opportunities whether freelancers, CLT or PJ.
+- 🎨 My hobby is editing videos and photos.
 
 <div class="flex flex-wrap">
   <span>ㅤㅤㅤㅤㅤㅤㅤㅤㅤ</span><img width = "54%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romulomdr&theme=vue-dark&hide_border=false">
