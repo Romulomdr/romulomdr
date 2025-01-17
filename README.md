@@ -8,7 +8,7 @@
 <div class="flex flex-wrap">
   
   <img width = "49.5%" height = "49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Romulomdr&theme=meta-dark&exclude_days=Sat"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulomdr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img width = "35.5%" height = "35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulomdr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div> 
 
 ![](https://komarev.com/ghpvc/?username=Romulomdr)
