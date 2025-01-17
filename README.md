@@ -17,9 +17,10 @@
   <img align="center" alt="Romulo-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
   <img align="center" alt="Romulo-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Romulo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Romulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
   <img align="center" alt="Romulo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Romulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
+  
 </div>
 
  ##
