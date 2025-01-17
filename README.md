@@ -5,14 +5,13 @@
 - 💼 Looking for opportunities whether freelancers, CLT or PJ.
 - 🎨 My hobby is editing videos and photos.
 
-
 <div class="flex flex-wrap">
-  <span></span><img width = "54%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romulomdr&theme=vue-dark&hide_border=false">
-  <img width = "35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulomdr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Romulomdr&theme=meta-dark&exclude_days=Sat"/>
+  <img width = "35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulomdr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div> 
 
-[![](https://visitcount.itsvg.in/api?id=Romulomdr&icon=5&color=0)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=Romulomdr)
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Romulo-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
