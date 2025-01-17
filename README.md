@@ -7,7 +7,7 @@
 
 <div class="flex flex-wrap">
   
-  <img width = "42%" height = "42%" src="https://github-readme-streak-stats.herokuapp.com?user=Romulomdr&theme=meta-dark&exclude_days=Sat"/>
+  <img width = "45%" height = "45%" src="https://github-readme-streak-stats.herokuapp.com?user=Romulomdr&theme=meta-dark&exclude_days=Sat"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulomdr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div> 
 
