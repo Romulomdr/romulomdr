@@ -2,7 +2,7 @@
 
 - 🔭 I'm working on back-end projects.
 - 🌱 At the moment I study frameworks focused on Java development (Spring, JPA, hibernate...).
-- 💼 Looking for opportunities whether freelancers, CLT or PJ.
+- 💼 Currently working with Java Spring boot.
 - 🎨 My hobby is editing videos and photos.
 
 <div class="flex flex-wrap">
