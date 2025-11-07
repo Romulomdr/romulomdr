@@ -1,6 +1,6 @@
 ### Hello! 👋👋
 
-- 🔭 I'm working on back-end projects.
+- 🔭 I'm working on full-stack projects.
 - 🌱 At the moment I study frameworks focused on Java development (Spring, JPA, RabbitMQ...).
 - 💼 Currently working with Java Spring boot.
 - 🎨 My hobby is editing videos and photos.
